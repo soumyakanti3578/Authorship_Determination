@@ -1,6 +1,7 @@
 # Authorship_Determination
 Determine author of a paragraph, with Decision Tree and Logistic Regression
 
+```
 usage: lab2.py [-h] [--train] [-d] [--print] [--max_depth MAX_DEPTH] [-l]
                [--predict FILENAME] [--train_test]
 
@@ -14,4 +15,4 @@ optional arguments:
   -l, --logreg          flag to train only logistic regression
   --predict FILENAME    predicts author on provided file
   --train_test          train models on dataset
-
+```
