@@ -17,6 +17,9 @@ optional arguments:
   --train_test          train models on dataset
 ```
 
+## **[Project report and explanation of features](https://github.com/soumyakanti3578/Authorship_Determination/blob/master/report.pdf)**
+
+
 [pairplot]: https://github.com/soumyakanti3578/Authorship_Determination/blob/master/pairplot.jpg
 
 Pairplot of selected features:
