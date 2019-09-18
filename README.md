@@ -16,3 +16,8 @@ optional arguments:
   --predict FILENAME    predicts author on provided file
   --train_test          train models on dataset
 ```
+
+[pairplot]: https://github.com/soumyakanti3578/Authorship_Determination/blob/master/pairplot.jpg
+
+Pairplot of selected features:
+![alt text][pairplot]
